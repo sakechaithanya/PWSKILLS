@@ -1,1 +1,1 @@
-# PWSKILLS
+# DataSciencePWSKILLS
